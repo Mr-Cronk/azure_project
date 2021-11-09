@@ -14,7 +14,7 @@ Zakres prac
 * Tworzenie serwisu Web App
 * Napisanie aplikacji webowej w Pythonie
 * Tworzenie możliwości do pezsyłania obrazków z poziomu interfejsu oraz endpointa
-* Ptrzetwarzanie wejsciowe
+* Ptrzetwarzanie wyjsciowe
 
 ### Khameta Maksim
 * Tworzenie serwisu Virtual Machine
