@@ -9,3 +9,14 @@ Pomysł polega na stworzeniu aplikacji internetowej, która na podstawie zrzutu 
 Zakres prac
 ----------------------------------
 
+###Kharashun Ilya
+* Tworzenie serwisu Web App
+* Napisanie aplikacji webowej w Pythonie
+* Tworzenie możliwości do pezsyłania obrazków z poziomu interfejsu oraz endpointa
+* Ptrzetwarzanie wejsciowe
+
+###Khameta Maksim
+* Tworzenie serwisu Virtual Machine
+* Uczenie modeli do rozpoznawania filmów (na podstawie wcześniej przygotowanego data-setu)
+* Uruchominie modeli na VM
+* Połączenie Web App oraz VM
