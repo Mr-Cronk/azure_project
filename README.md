@@ -5,7 +5,7 @@ Pomysł
 ----------------------------------
 
 Pomysł polega na stworzeniu aplikacji internetowej, która na podstawie zrzutu ekranu lub klatki z filmu określi skąd został pobrany, czyli z którego filmu i zwróci tytuł na wyjście 
-![Иллюстрация к проекту](https://github.com/khametamaksim/azure_project/example.png)
+![Иллюстрация к проекту](https://github.com/khametamaksim/azure_project/blob/main/example.png)
 
 Zakres prac
 ----------------------------------
